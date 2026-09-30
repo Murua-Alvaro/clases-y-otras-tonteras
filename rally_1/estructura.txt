@@ -1,3 +1,0 @@
-Notebook principal: analisis_series_tiempo_colab.ipynb
-Documentación: README.md, descripcion_metodologica.md, README_COLAB.md, NOTAS.md
-Dependencias: requirements.txt
